@@ -73,6 +73,20 @@ li {
 p {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 img {
 	object-fit: contain;
 }
+
+button {
+	background-color: rgb(148, 48, 148);
+	border: none;
+	color: white;
+	text-align:center;
+	padding: 15px 32px;
+	display:inline-block;
+	font-size:16px;
+	margin: 4px 2px;
+}
+
+
