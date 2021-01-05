@@ -29,3 +29,15 @@
 .active {
 	background-color: #4caf50;
 }
+
+.column {
+	float: left;
+	width: 50%;
+}
+
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
