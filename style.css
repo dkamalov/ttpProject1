@@ -35,9 +35,12 @@
 	width: 50%;
 }
 
-.row:after{
-	content: "";
+.row:after {
+	content: '';
 	display: table;
 	clear: both;
 }
-
+#content {
+	margin-left: 20%;
+	margin-right: 20%;
+}
